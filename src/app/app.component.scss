@@ -1,0 +1,15 @@
+$primary: var(--primary-color);
+$secondary: var(--secondary-color);
+
+.primary {
+  color: $primary;
+}
+
+.primary-background {
+  background-color: $primary;
+}
+
+.secondary-background {
+  background-color: $secondary;
+}
+
